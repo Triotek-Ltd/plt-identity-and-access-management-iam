@@ -1,0 +1,82 @@
+[
+  {
+    "module_code": "plt1_3",
+    "module_label": "PLT.1.3 - Access Policy Enforcement",
+    "module_title": "Access Policy Enforcement",
+    "module_slug": "access_policy_enforcement",
+    "app_code": "plt1",
+    "app_label": "PLT 1 - Identity & Access Management (IAM)",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_code": "plt1_6",
+    "module_label": "PLT.1.6 - Account Identity Profile Management",
+    "module_title": "Account Identity Profile Management",
+    "module_slug": "account_identity_profile_management",
+    "app_code": "plt1",
+    "app_label": "PLT 1 - Identity & Access Management (IAM)",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_code": "plt1_5",
+    "module_label": "PLT.1.5 - Account Lifecycle Initialization",
+    "module_title": "Account Lifecycle Initialization",
+    "module_slug": "account_lifecycle_initialization",
+    "app_code": "plt1",
+    "app_label": "PLT 1 - Identity & Access Management (IAM)",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_code": "plt1_4",
+    "module_label": "PLT.1.4 - Account Type Selection",
+    "module_title": "Account Type Selection",
+    "module_slug": "account_type_selection",
+    "app_code": "plt1",
+    "app_label": "PLT 1 - Identity & Access Management (IAM)",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_code": "plt1_2",
+    "module_label": "PLT.1.2 - Authentication & SSO",
+    "module_title": "Authentication & SSO",
+    "module_slug": "authentication_and_sso",
+    "app_code": "plt1",
+    "app_label": "PLT 1 - Identity & Access Management (IAM)",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_code": "plt1_7",
+    "module_label": "PLT.1.7 - Organization Registry Linking",
+    "module_title": "Organization Registry Linking",
+    "module_slug": "organization_registry_linking",
+    "app_code": "plt1",
+    "app_label": "PLT 1 - Identity & Access Management (IAM)",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_code": "plt1_8",
+    "module_label": "PLT.1.8 - Primary Contact Assignment",
+    "module_title": "Primary Contact Assignment",
+    "module_slug": "primary_contact_assignment",
+    "app_code": "plt1",
+    "app_label": "PLT 1 - Identity & Access Management (IAM)",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_code": "plt1_1",
+    "module_label": "PLT.1.1 - User Provisioning & Deprovisioning",
+    "module_title": "User Provisioning & Deprovisioning",
+    "module_slug": "user_provisioning_and_deprovisioning",
+    "app_code": "plt1",
+    "app_label": "PLT 1 - Identity & Access Management (IAM)",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  }
+]
